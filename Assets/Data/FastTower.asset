@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 642b51ca312c66f4ba00e3bbea7bc787, type: 3}
+  m_Name: FastTower
+  m_EditorClassIdentifier: Assembly-CSharp::TowerData
+  range: 1.5
+  shootInterval: 0.5
+  projectileSpeed: 10
+  projectileDuration: 2
+  projectileSize: 1
+  damage: 1
+  cost: 50
+  sprite: {fileID: 5658235122646412163, guid: 2a5feb93fab0c6746b4854730a1e854b, type: 3}
+  prefab: {fileID: 1909238885415000358, guid: 4744204f26d8b9f42831100ec683210f, type: 3}

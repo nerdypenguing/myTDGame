@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 642b51ca312c66f4ba00e3bbea7bc787, type: 3}
+  m_Name: Heavy Tower
+  m_EditorClassIdentifier: Assembly-CSharp::TowerData
+  range: 1.1
+  shootInterval: 1.2
+  projectileSpeed: 6
+  projectileDuration: 2
+  projectileSize: 2
+  damage: 3
+  cost: 75
+  sprite: {fileID: -8058720123808676846, guid: bf0ad6ae59ea1e44eab93e825250f534, type: 3}
+  prefab: {fileID: 1909238885415000358, guid: d424d4bf766674c4bbb3298c514173e2, type: 3}
